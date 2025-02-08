@@ -1,0 +1,22 @@
+{
+  "name": "principal-agent-contract",
+  "version": "1.0.0",
+  "description": "This is an impl of my blog https://lihaorui.com/2025/01/24/MADL_on_chain/",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "chai": "^5.1.2",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.18",
+    "mocha": "^11.1.0"
+  }
+}
